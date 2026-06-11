@@ -9,10 +9,14 @@ Este repositório contêm informações sobre o que aprendi sobre Microsoft Copi
   - Gerenciar acessos e permissões no ambiente
 
 ## Veja algumas capturas de tela do processo:
+### Criando um Ambiente
 ![Criando um Ambiente](imgs/ambiente.bmp)
 
+### Criando um Agente
 ![Criando um Agente](imgs/criando_agente.bmp)
 
+### Teste do Agente
 ![Teste do Agente](imgs/agente.bmp)
 
+### Gerenciando Permissões
 ![Gerenciando Permissões](imgs/permissoes.bmp)
